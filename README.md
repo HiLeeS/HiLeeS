@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 |--------|--------|-------|------|--------|
 | **RAG 학습·지식 지원 솔루션** | 2025.1.9 ~ 2025.1.23 | 지식 휘발 및 반복 질문을 줄이기 위한 RAG 기반 학습 지원 | 크롤링 데이터, 학습 로그 | [Repo](https://github.com/woorifisa-6th-n8n-chatbot-team/woorifisa-n8n-project) |
 | **우리카드 저사용 고객 활성화 분석** | 2026.1.16 ~ 2026.1.16 | 우리카드 데이터 기반 저사용 고객 이용률 제고 전략 | 우리카드 실사용 데이터 | [Repo](https://github.com/Woori-Fisa-1st-Tech-Seminar-Team/wooricard_analysis) |
-| **금융 서비스 보안 모니터링** | 2026.1.23 ~ 2026.2.4 | 3-Tier + WAF + ELK 기반 보안 이벤트 시각화 | WAF / Web 로그 | [Repo]([https://github.com/Woori-Fisa-1st-Tech-Seminar-Team/3tier-Tech-Seminar](https://github.com/Woori-Fisa-1st-Tech-Seminar-Team)) |
+| **금융 서비스 보안 모니터링** | 2026.1.23 ~ 2026.2.4 | 3-Tier + WAF + ELK 기반 보안 이벤트 시각화 | WAF / Web 로그 | [Repo](https://github.com/Woori-Fisa-1st-Tech-Seminar-Team) |
 
 
 
