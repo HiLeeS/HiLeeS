@@ -42,6 +42,19 @@
 
 ---
 
+## 📜 Certifications
+
+| Certification | Organization | Date |
+|--------------|--------------|------|
+| **AWS Certified Solutions Architect – Associate** | AWS | 2026.07.16 |
+| **리눅스마스터 2급** | 한국정보통신진흥협회 | 2026.04.03 |
+| **정보처리기사** | 한국산업인력공단 | 2025.06.13 |
+| **SQLD** | 한국데이터산업진흥원 | 2024.09.20 |
+| **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | 2021.12.31 |
+
+---
+
+
 ## 🏅 Algorithm & Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asz8017)](https://solved.ac/asz8017)
